@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: 
+Disallow: /css
+Disallow: /.git
+Disallow: /fonts
+Disallow: /images
+Disallow: /js
+Disallow: /scss
+Disallow: /vendor
